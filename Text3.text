@@ -1,0 +1,12 @@
+html>
+<body>
+<?php
+
+ $students = array (name=>"saman",adderss=>"Kandy rd ,Maabe","special power"=>"x-ray vision" );
+ foreach ( $character as $key=>$val )
+ {
+ print "$key = $val<br>";
+ }
+ ?>
+</body>
+</html>

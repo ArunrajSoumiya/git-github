@@ -1,0 +1,11 @@
+html>
+<body>
+<?php
+$x=5;
+$y=8;
+$c=$x+$y;
+echo "$c";
+
+?>
+</body>
+</html>
